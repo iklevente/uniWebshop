@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniWebShop.Backend", "UniWebShop.Backend\UniWebShop.Backend.csproj", "{B6634AC8-2962-4BF5-85DB-DAB89F2EBECB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniWebShop.DataAccess", "UniWebShop.DataAccess\UniWebShop.DataAccess.csproj", "{89CD1DB4-EF8B-4A38-BAF6-78933FA3A201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6634AC8-2962-4BF5-85DB-DAB89F2EBECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6634AC8-2962-4BF5-85DB-DAB89F2EBECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6634AC8-2962-4BF5-85DB-DAB89F2EBECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6634AC8-2962-4BF5-85DB-DAB89F2EBECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CD1DB4-EF8B-4A38-BAF6-78933FA3A201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CD1DB4-EF8B-4A38-BAF6-78933FA3A201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CD1DB4-EF8B-4A38-BAF6-78933FA3A201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CD1DB4-EF8B-4A38-BAF6-78933FA3A201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FDAF95-B712-4522-A1F0-AB6F740EC02A}
+	EndGlobalSection
+EndGlobal
